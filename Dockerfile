@@ -1,5 +1,5 @@
 # start from base
-FROM ubuntu:latest
+FROM ubuntu:18.04
 MAINTAINER Anil Pemmaraju <akmaharshi@anilkumar.me>
 
 # install system-wide deps for python and node
